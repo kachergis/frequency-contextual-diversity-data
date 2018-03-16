@@ -1,0 +1,25 @@
+"","CD","Freq","PairsPerTrial","Cond","file","Correct"
+"1",18,3,4,"2 Subsets","2_x8_39_4x4",0.348148148148148
+"2",18,9,4,"2 Subsets","2_x8_39_4x4",0.474074074074074
+"3",18,3,4,"3 Subsets","3_x8_369_4x4",0.388888888888889
+"4",18,6,4,"3 Subsets","3_x8_369_4x4",0.377777777777778
+"5",18,9,4,"3 Subsets","3_x8_369_4x4",0.405555555555556
+"6",6,3,3,"Varied Freq Low CD","block1_369-3x3loCD",0.264705882352941
+"7",6,6,3,"Varied Freq Low CD","block1_369-3x3loCD",0.446078431372549
+"8",6,9,3,"Varied Freq Low CD","block1_369-3x3loCD",0.745098039215686
+"9",18,3,3,"Varied Freq","block2_369-3x3hiCD",0.421296296296296
+"10",18,6,3,"Varied Freq","block2_369-3x3hiCD",0.513888888888889
+"11",18,9,3,"Varied Freq","block2_369-3x3hiCD",0.5
+"12",18,3,3,"Varied Freq High CD","block2_369-3x3hiCD",0.492647058823529
+"13",18,6,3,"Varied Freq High CD","block2_369-3x3hiCD",0.66421568627451
+"14",18,9,3,"Varied Freq High CD","block2_369-3x3hiCD",0.629901960784314
+"15",12,3,3,"Varied Freq 3 & 6 Mixed","block3_369_36mx",0.310606060606061
+"16",12,6,3,"Varied Freq 3 & 6 Mixed","block3_369_36mx",0.436868686868687
+"17",6,9,3,"Varied Freq 3 & 6 Mixed","block3_369_36mx",0.613636363636364
+"18",12,3,3,"Varied Freq 3 & 9 Mixed","block4_369_39mx",0.570833333333333
+"19",6,6,3,"Varied Freq 3 & 9 Mixed","block4_369_39mx",0.5625
+"20",12,9,3,"Varied Freq 3 & 9 Mixed","block4_369_39mx",0.733333333333333
+"21",6,6,3,"Varied CD","cont_div6-12",0.341397849462366
+"22",12,6,3,"Varied CD","cont_div6-12",0.481182795698925
+"23",18,6,3,"3x3","orig_3x3",0.425925925925926
+"24",18,6,4,"4x4","orig_4x4",0.315789473684211
